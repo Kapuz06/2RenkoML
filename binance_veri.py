@@ -14,7 +14,7 @@ symbols = [
 ]
 
 # Verilerin kaydedileceği temel dizin
-base_path = r'C:\Users\asus\OneDrive\Masaüstü\trade\veriler'
+base_path = '2RenkoML/veriler'
 
 # Son 10 günlük veri aralığı
 end_time = datetime.utcnow()
